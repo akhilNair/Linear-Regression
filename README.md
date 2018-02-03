@@ -6,5 +6,5 @@ The number of people with diabetes has risen from 108 million in 1980 to 422 mil
 
 
 
-#Refrences
+# Refrences
 * http://www.who.int/mediacentre/factsheets/fs312/en/
