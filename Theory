@@ -1,0 +1,13 @@
+Equation of linear model
+y = Bo + B1X + e   ( Bo and B1 are coeffecients and e is the error term)
+
+y is the linear function of the coeffecients and the error term
+
+Estimation of parameters by least square
+1. ei = yi = yi_hat    .... residual
+2. Residual Sum of Squares (RSS) = e1^2 + e2^2 .. + en^2
+
+Standard Error of an estimator reflects how it varies under repeated sampling
+SE(B1) = VAR(e) / Summation (xi - x_hat)^2          ....... (SLOPE)
+Standard error of my slope is larger if noise variance is bigger. Denominator says the more spread out the axis, the more precise the 
+slope is.
